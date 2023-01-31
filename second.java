@@ -1,4 +1,4 @@
- public class Mark {
+ public class second {
 
 	public void main(String[]args) {
 		
