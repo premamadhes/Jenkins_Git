@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9A8B-FC5C
+
+ Directory of C:\Users\prema\OneDrive\Desktop\Jenkins_Java
+
+31-01-2023  13:09    <DIR>          .
+31-01-2023  12:04    <DIR>          ..
+31-01-2023  12:11                 0 javac
+31-01-2023  12:58               914 Jenkins_Git.class
+31-01-2023  12:16               150 Jenkins_Git.java
+31-01-2023  13:09                 0 second.txt
+               4 File(s)          1,064 bytes
+               2 Dir(s)  81,557,364,736 bytes free
